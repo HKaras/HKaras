@@ -7,6 +7,7 @@ An experimental physicist specialising in improvment measurement methods in Elec
 
 - autoDEER: Here we are developing a fully automated approach to Double Electron Electron Resonance (DEER) spectroscopy. 
 - DeerLab: I am maintainer here, making sure that its stays up to date and stable. DeerLab is the premier data analysis for advanced processing of DEER data 
+- pulsespel-vscode: Is a VScode extention to make it easier to write and edit Bruker PulseSpel files, by adding code highlighting. 
 
 <!---
 HKaras/HKaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
