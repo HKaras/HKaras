@@ -1,6 +1,6 @@
 ### Hi, I’m Hugo Karas 👋
 
-An experimental physicist specialising in improvment measurement methods in Electron Paramagnetic Spectroscopy (EPR) in the group of Prof. Jeschke at ETH Zurich. Originally from Sc󠁿otland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 now based in Zürich 🇨🇭
+An experimental physicist specialising in improving measurement methods in Electron Paramagnetic Spectroscopy (EPR) in the group of Prof. Jeschke at ETH Zurich. Originally from Sc󠁿otland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 now based in Zürich 🇨🇭
 
 
 #### Main Projects
